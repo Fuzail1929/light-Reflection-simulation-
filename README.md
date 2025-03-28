@@ -1,6 +1,7 @@
 # Light Reflection Simulation for Pattern Generation
 
-![Light Reflection Simulation](https://via.placeholder.com/800x400.png?text=Dynamic+2D+and+3D+Light+Reflection+Visualization)
+![Light Reflection Simulation] 
+https://via.placeholder.com/800x400.png?text=Dynamic+2D+and+3D+Light+Reflection+Visualization
 
 A **Python-based simulation** project that models light reflection in 2D and 3D environments, generating intricate patterns using principles of optics and physics. Built with `Pygame` for interactive 2D visualization and `Panda3D` for immersive 3D rendering.
 
