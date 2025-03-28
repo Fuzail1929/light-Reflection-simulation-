@@ -27,5 +27,5 @@ A **Python-based simulation** project that models light reflection in 2D and 3D 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/light-reflection-simulation.git
+   git clone https://github.com/Fuzail1929/light-reflection-simulation.git
    cd light-reflection-simulation
